@@ -1,0 +1,57 @@
+cbeA	cytoskeleton bundling-enhancing antitoxin CbeA
+cbtA	cytoskeleton-binding toxin CbtA
+chpB	endoribonuclease toxin ChpB
+chpS	ChpS antitoxin of the ChpB-ChpS toxin-antitoxin
+dinJ	antitoxin/DNA-binding transcriptional repressor
+dinQ	membrane toxin DinQ
+fimA	type 1 fimbriae major subunit
+fimB	Type 1 fimbriae regulatory protein FimB
+fimC	type 1 fimbriae periplasmic chaperone
+fimD	type I fimbriae usher protein
+fimF	type 1 fimbriae minor subunit FimF
+fimG	type 1 fimbriae minor subunit FimG
+fimH	type 1 fimbriae D-mannose specific adhesin
+ghoS	antitoxin of the GhoTS toxin-antitoxin system
+ghoT	toxin of the GhoTS toxin-antitoxin system
+hha	hemolysin expression-modulating protein Hha
+hicA	mRNA interferase toxin HicA
+hicB	antitoxin of the HicA-HicB toxin-antitoxin
+higA	antitoxin/DNA-binding transcriptional repressor
+higB	ribosome-dependent mRNA interferase toxin HigB
+hipA	serine/threonine-protein kinase toxin HipA
+hipB	antitoxin/DNA-binding transcriptional repressor
+hipH	serine/threonine-protein kinase toxin HipH
+hlyE	hemolysin E
+hokB	toxin HokB
+mazE	antitoxin of the MazF-MazE toxin-antitoxin
+mazF	endoribonuclease toxin MazF
+mqsA	antitoxin of the MqsRA TA system/DNA-binding
+mqsR	mRNA interferase toxin MqsR
+ortT	orphan toxin OrtT
+prlF	antitoxin PrlF
+ralA	small regulatory RNA antitoxin RalA
+ralR	endodeoxyribonuclease toxin RalR
+ratA	ribosome association toxin RatA
+relB	antitoxin/DNA-binding transcriptional repressor
+relE	mRNA interferase toxin RelE
+rnlA	RNase LS, toxin of the RnlAB toxin-antitoxin
+rnlB	antitoxin RnlB
+sibC	small regulatory RNA antitoxin SibC
+sokB	putative small regulatory RNA antitoxin SokB
+sokC	small regulatory RNA antitoxin SokC
+symR	small regulatory RNA antitoxin SymR
+tabA	DUF386 domain-containing toxin-antitoxin biofilm
+tisB	membrane-depolarizing toxin TisB
+topAI	toxin of the TopAI-YjhQ toxin-antitoxin system,
+yafN	antitoxin YafN
+yafO	ribosome-dependent mRNA interferase toxin YafO
+yafQ	ribosome-dependent mRNA interferase toxin YafQ
+yafW	antitoxin of the YkfI-YafW toxin-antitoxin pair
+yagB	orphan antitoxin YagB
+yefM	YefM antitoxin of the YoeB-YefM toxin-antitoxin
+yfjZ	putative antitoxin of the YpjF-YfjZ
+yhaV	ribosome-dependent mRNA interferase toxin YhaV
+yjhQ	putative acetyltransferase TopAI antitoxin YjhQ
+ykfI	toxin of the YkfI-YafW toxin-antitoxin system
+yoeB	ribosome-dependent mRNA interferase toxin YoeB
+ypjF	toxin of the YpjF-YfjZ toxin-antitoxin system
