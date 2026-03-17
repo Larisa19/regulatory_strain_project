@@ -24,7 +24,7 @@ regulatory-strain-project/
 
 ## How to Run
 
-I.Genome Statistics (FASTA)
+**I. Genome Exploration (FASTA)**
 
 1. Open the terminal and go to the 'scripts/' folder:
    ```bash
@@ -36,7 +36,7 @@ I.Genome Statistics (FASTA)
 4. Check the output in the 'results/' folder.
    - This includes genome lenght and CG content.
 
-II. Extract coding sequences (CDS) from GenBank
+**II. Extract coding sequences (CDS) from GenBank**
 
 5. Place the GeneBanck file in 'data/' folder.
    Example data/ecoli_k12.gb
@@ -50,7 +50,7 @@ II. Extract coding sequences (CDS) from GenBank
    Format: Gene | Product
    Note: The script will remove the duplicates for clarity.
 
-III. Identify Potential Virulence Genes
+**III. Identify Potential Virulence Genes**
 
 9. Search for virulence-related genes in the gene table:
 grep -i -E "toxin|fimbriae|hemolysin|flagellin|adhesion" ../results/ecoli_genes.txt > ../results/ecoli_virulence_genes.txt
@@ -64,7 +64,8 @@ IV. Generate a summary table of the virulense found genes
 12. Check the resulta table 
     cat ../results/ecoli_summary.txt | head -n 10
 
-V. Workflow Overview
+
+**IV. Workflow Overview**
 
 This workflow demonstrates a basic regulatory strain analysis using *E. coli* K-12 as an example.
 
@@ -76,5 +77,14 @@ This workflow demonstrates a basic regulatory strain analysis using *E. coli* K-
    - Filter genes using common virulence keywords (`toxin`, `fimbriae`, `hemolysin`, `flagellin`, `adhesion`) with `grep`.
 4. **Summary Table Generation**
    - Generate a summary table (`ecoli_summary.txt`) with `Gene`, `Product`, and `Virulence?` columns using `generate_summary.sh`.
-5. **Optional: Clean-up and Duplicate Removal**
-   - Ensure clarity and reproducibility by removing duplicate entries with `sort | uniq`.
+
+**V. Regulatory Relevance**
+
+This project simulates a simplified strain safety assessment workflow based on genomic data.
+
+The generated outputs (gene annotations and virulence screening) resemble the type of information required for:
+- microbial risk assessment
+- regulatory documentation
+- biosafety evaluation of production strains
+
+This approach demonstrates how bioinformatics pipelines can support regulatory decision-making.
